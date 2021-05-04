@@ -1,0 +1,2 @@
+# CppAlgo
+Implementacje wszelakich algorytmow
